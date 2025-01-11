@@ -1,5 +1,5 @@
 # dlclass
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">SCNU_AI1 Class _ Deep Learning Group Project _ Topic Selection [No.6]</h3>
 
 - 🔭 I’m currently working on **文本嵌入与相似性搜索的抄袭检测**
 
