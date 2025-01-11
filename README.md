@@ -47,7 +47,7 @@ After many experiments and evaluations, the M3E + Trainer API proved to be the m
 ![image](images/result.jpg)
 
 Here are some examples of what went right and wrong：
-[example.txt](http://www.baidu.com/)
+[example.txt](https://github.com/Nana-Juliana/dlclass/blob/main/example.txt)
 
 ## Contact information
 Email：sleepy202311@gmail.com
