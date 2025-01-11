@@ -8,7 +8,7 @@ This project is plagiarism detection based on Text Embedding and Similarity Sear
 
 ## Data set
 The following data sets were used for model training and evaluation in this project:
-![image]()
+![image](images/PAWS.png)
 PAWS (Paraphrase Adversaries from Word Scrambling) : Contains 108,463 pairs of manually annotated text, focusing on the structure and word-order information of the text.
 
 ## Model and method
@@ -38,7 +38,7 @@ The following is a comparison of the accuracy of each model combination:
 | M3E+Trainer API          | 0.8916        |
 | GTE+SVM                  | 0.5040        |
 After many experiments and evaluations, the M3E + Trainer API proved to be the most effective model combination. After further optimization, the results are as follows:
-![image]()
+![image](images/result.jpg)
 
 ## 联系方式
 邮箱：sleepy202311@gmail.com
