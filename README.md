@@ -1,8 +1,7 @@
 # README
+<h3 align="center">SCNU_AI1 Class _ Deep Learning Group Project _ Topic Selection [No.6]</h3>
+
 # 文本嵌入与相似性搜索的抄袭检测
-
-SCNU_AI1 Class _ Deep Learning Group Project _ Topic Selection [No.6]
-
 ## Project overview
 
 This project is plagiarism detection based on Text Embedding and Similarity Search. Data set is chosen PAWS (https://paperswithcode.com/dataset/paws) in the project, we through the combination of traditional machine learning and deep learning model to improve existing plagiarism detection techniques. By comparing the effect of several different model combinations, the best model is finally determined for plagiarism detection task.
