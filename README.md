@@ -1,4 +1,4 @@
-<h2 align="center">SCNU_AI1班_D神经网络与深度学习课程项目_选题[No.6]</h2>
+<h2 align="center">SCNU_AI1班_神经网络与深度学习课程项目_选题[No.6]</h2>
 
 # Plagiarism Detection with Text Embedding and Similarity
 
