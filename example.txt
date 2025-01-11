@@ -1,0 +1,121 @@
+True Examples:
+Sentence 1: David Spinozza plays the acoustic guitar in the song , Liberty DeVitto plays the drums and Robert Freedman the horn and string orchestration .
+Sentence 2: Robert Robert Freedman plays the acoustic guitar in the song , Liberty DeVitto plays the drums and David Spinozza is the horn and string orchestration .
+Label: 0, Predicted: 0
+
+Sentence 1: As traditionally defined , the family includes several extant species from South America , one from Africa , several from Asia , and two from Australia .
+Sentence 2: As traditionally defined , several species from Australia , one from Africa , several from Asia and two from South America belong to the family .
+Label: 0, Predicted: 0
+
+Sentence 1: Alpine ( formerly Alpine Junction ) is an unlawful community in Mendocino County , California .
+Sentence 2: Alpine ( formerly , Mendocino County , California ) is an unincorporated community in Alpine Junction .
+Label: 0, Predicted: 0
+
+Sentence 1: Born 1841 in Lawrence County , Arkansas , Gardenhire moved with his family to Marion County , Tennessee , when he was 10 years old .
+Sentence 2: Born 1841 in Marion County , Tennessee , Gardenhire moved with his family to Lawrence County , Arkansas , when he was 10 years old .
+Label: 0, Predicted: 0
+
+Sentence 1: On July 30 , 2012 , it was announced that Juninho Paulista would have a test with Middlesbrough FC after being recommended by Club - Legende Corrêa to manager Tony Mowbray .
+Sentence 2: On July 30 , 2012 , Corrêa was announced to have a test with Middlesbrough FC after being recommended by Club legend Juninho Paulista to manager Tony Mowbray .
+Label: 0, Predicted: 0
+
+Sentence 1: A Singular Conspiracy ( 1974 ) by Edgar Allan Poe is a fictional treatment of the unaccounted period in Barry Perowne 's life from January to May 1844 .
+Sentence 2: A singular conspiracy ( 1974 ) by Barry Perowne is a fictional treatment of the non-considered time in Edgar Allan Poe 's life from January to May 1844 .
+Label: 0, Predicted: 0
+
+Sentence 1: His marathi songs are from other films :
+Sentence 2: His some other songs from Marathi Films are
+Label: 0, Predicted: 0
+
+Sentence 1: The River Luhei is a tributary of the Viseu River in Romania .
+Sentence 2: The Vişeu River is a tributary of the Luhei River in Romania .
+Label: 0, Predicted: 0
+
+Sentence 1: Although some writers think the words `` the son of Pyrrhus '' were added to distinguish Sosipater from Sopater .
+Sentence 2: Although some writers think that the words '' the son of Pyrrhus '' were added to distinguish Sopater from Sosipater .
+Label: 0, Predicted: 0
+
+Sentence 1: In 1934 , Wilder committed suicide and Walter died on 20 April 1938 .
+Sentence 2: In 1934 , Walter committed suicide and Wilder died on April 20 , 1938 .
+Label: 0, Predicted: 0
+
+Sentence 1: Vivek Ranadive brought together a group led by Kevin Johnson to hold the team in Sacramento .
+Sentence 2: Kevin Johnson brought together a group led by Vivek Ranadive to retain the team in Sacramento .
+Label: 0, Predicted: 0
+
+Sentence 1: Cool winds come from the local Calanterique - forest and from the immense Cordillera Montecillos , a biological reserve on the southern edge of the valley .
+Sentence 2: Cool winds flow down from the immense Calanterique forest and from the local Cordillera Montecillos , a Biological Reserve on the southern edge of the valley .
+Label: 0, Predicted: 0
+
+Sentence 1: It is provided by Romtelecom ( formerly Telekom ) , INES ( an Internet , IPTV and Internet service provider ) .
+Sentence 2: It is provided by Telekom ( formerly Romtelecom ) , INES ( an Internet , IPTV and Internet provider ) .
+Label: 0, Predicted: 0
+
+Sentence 1: Dickes assembled a team of wood engravers between 1842 and 1847 to illustrate the Abbotsford edition of Walter Scott 's work .
+Sentence 2: Between 1842 and 1847 , Walter Scott assembled a team of woodcutters to illustrate the Abbotsford edition of Dickes ' work .
+Label: 0, Predicted: 0
+
+Sentence 1: Alappuzha constituency is part of Alappuzha ( Lok Sabha constituency ) , the other constituency of Lok Sabha is the district Mavelikkarare
+Sentence 2: The Mavelikkara Meeting Constituency is part of Alappuzha ( Lok Sabha constituency ) , the other constituency of Lok Sabha of the district is Alappuzha .
+Label: 0, Predicted: 0
+
+False Examples:
+Sentence 1: The Meads of Asphodel are a British black metal band with pronounced medieval , Eastern , Punk , and Progressive Metal influences from Hertfordshire in the United Kingdom .
+Sentence 2: The Meads of Asphodel are a British black metal band with pronounced influences from the Middle Ages , Eastern , Punk and Progressive Metal from Hertfordshire in the United Kingdom .
+Label: 1, Predicted: 0
+
+Sentence 1: Crain wrote on this album the song `` For the Miner '' , which was mentioned shortly before his death for Jason Molina .
+Sentence 2: Crain has written the song `` For the Miner '' on this album which was mentioned for Jason Molina shortly before his death .
+Label: 1, Predicted: 0
+
+Sentence 1: Most exhibitors plan `` full '' , `` rolling '' and `` flat '' display for varying weather and airspace conditions .
+Sentence 2: Most exhibitors will plan `` full , `` rolling '' and `` flat '' display for varying weather and airspace conditions .
+Label: 1, Predicted: 0
+
+Sentence 1: `` a '' is 1 if either `` j '' is 1 or `` i '' divides `` j '' .
+Sentence 2: `` a '' is 1 if either `` j '' 1 or `` i `` j '' is divided .
+Label: 1, Predicted: 0
+
+Sentence 1: DILIGENCE : For to neirest law in Edinburgh was the seik way .
+Sentence 2: DILIGENCE : For the law in Edinburgh to neirest was the Seik - Way .
+Label: 1, Predicted: 0
+
+Sentence 1: The next segment of A4 will connect Štip ( A3 junction ) via Radoviš and Strumica to the border with Bulgaria near Novo Selo .
+Sentence 2: The next A4 segment will connect Štip ( A3 junction ) via Radoviš and Strumica with the border to Bulgaria near Novo Selo .
+Label: 1, Predicted: 0
+
+Sentence 1: Walter Scott assembled a team of wood engravers between 1842 and 1847 to illustrate the Abbotsford edition of Dickes 's work .
+Sentence 2: Between 1842 and 1847 , Walter Scott assembled a team of woodcutters to illustrate the Abbotsford edition of Dickes ' work .
+Label: 1, Predicted: 0
+
+Sentence 1: Clason Prairie or Clason 's Prairie was a former settlement in the town of Beaver Dam , United States , about four miles southeast of Beaver Dam , Wisconsin .
+Sentence 2: Clason Prairie or Clason 's Prairie was a former settlement in the Town of Beaver Dam , Wisconsin , United States , roughly four miles southeast of Beaver Dam .
+Label: 1, Predicted: 0
+
+Sentence 1: Also their upper limbs ( femoras ) on their middle hind legs are brown with a thin , long , yellow stripe .
+Sentence 2: Also , their upper limbs ( femoras ) on their median hind legs are brown with a thin , long , yellow stripe .
+Label: 1, Predicted: 0
+
+Sentence 1: The show would be pronounced as Up Late NW ( redesigned Up Late Northwest ) in September 2015 .
+Sentence 2: The show would be pronounced as Up Late NW ( revamped Up Late Northwest ) in September 2015 .
+Label: 1, Predicted: 0
+
+Sentence 1: The Potez X was a French colonial transport aircraft designed and built by Potez in the 1920s .
+Sentence 2: The Potez X was a French 1920s general-purpose colonial transport aircraft designed and built by Potez .
+Label: 1, Predicted: 0
+
+Sentence 1: Paludibacter is a Gram-anaerobic , chemoorganotrophic and non-motile , strictly negative genus from the family of Paludibacteraceae .
+Sentence 2: Paludibacter is a gram anaerobic , chemoorganotrophic and non-motile , strictly negative genus from the family of paludibacteraceae .
+Label: 1, Predicted: 0
+
+Sentence 1: These players were Axel Almanza , Héctor Martinez , Hanamel Hill , Julio Creek and Juan Maning .
+Sentence 2: These players were Axel Almanza , Héctor Martinez , Hanamel , Julio Creek and Juan Maning .
+Label: 1, Predicted: 0
+
+Sentence 1: He appeared as General Onoda in the Amazon show `` The Man In The High Castle '' , and as Tao on AMC 's `` Hell On Wheels '' .
+Sentence 2: He appeared as General Onoda in the Amazon - Show `` The Man in High Castle '' and as Tao on AMCs '' Hell On Wheels '' .
+Label: 1, Predicted: 0
+
+Sentence 1: The consequence was directed by Ron Rubio and written by Kirker Butler .
+Sentence 2: The episode was written by Kirker Butler and is directed by Ron Rubio .
+Label: 1, Predicted: 0
