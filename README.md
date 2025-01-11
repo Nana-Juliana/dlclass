@@ -14,6 +14,7 @@ PAWS (Paraphrase Adversaries from Word Scrambling) : Contains 108,463 pairs of m
 
 ## Model and method
 We implemented and compared the following model combinations:
+
 - CNN+SVM
 - BERT+Cosine Similarity
 - BERT+Random Forest
@@ -23,6 +24,7 @@ We implemented and compared the following model combinations:
 - M3E+SVM
 - M3E+Trainer API
 - GTE+SVM
+
 After many experiments and evaluations, an optimal model combination is selected. Then the optimal model is further optimized and improved to achieve better results.
 
 ## Experimental result
