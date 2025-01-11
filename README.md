@@ -21,9 +21,7 @@ We implemented and compared the following model combinations:
 - Sentencebert+SVM
 - Sentencebert+XGBoost
 - Jaccard similarity +CNN
-- M3E+SVM
 - M3E+Trainer API(用于微调)
-- GTE+SVM
 
 After many experiments and evaluations, an optimal model combination is selected. Then the optimal model is further optimized and improved to achieve better results.
 
@@ -38,9 +36,7 @@ The following is a comparison of the accuracy of each model combination:
 | Sentencebert+SVM         | 0.6247        |
 | Sentencebert+XGBoost     | 0.6256        |
 | Jaccard similarity +CNN  | 0.6071        |
-| M3E+SVM                  | 0.5856        |
 | M3E+Trainer API          | 0.8916        |
-| GTE+SVM                  | 0.5040        |
 
 After many experiments and evaluations, the M3E + Trainer API proved to be the most effective model combination. After further optimization, the results are as follows:
 
