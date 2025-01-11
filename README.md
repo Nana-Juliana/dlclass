@@ -22,7 +22,7 @@ We implemented and compared the following model combinations:
 - Sentencebert+XGBoost
 - Jaccard similarity +CNN
 - M3E+SVM
-- M3E+Trainer API
+- M3E+Trainer API(用于微调)
 - GTE+SVM
 
 After many experiments and evaluations, an optimal model combination is selected. Then the optimal model is further optimized and improved to achieve better results.
